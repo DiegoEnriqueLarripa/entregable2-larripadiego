@@ -1,0 +1,72 @@
+[
+    { 
+        "id": 1, 
+        "nombre": "Cocacola", 
+        "precio": 2500, 
+        "categoria": "Bebida",
+        "img": "img/cocacola.webp" 
+    },
+    { 
+        "id": 2, 
+        "nombre": "Pepsi", 
+        "precio": 2500, 
+        "categoria": "Bebida",
+        "img": "img/pepsi.webp"
+    },
+    { 
+        "id": 3, 
+        "nombre": "Fanta", 
+        "precio": 2500, 
+        "categoria": "Bebida",
+        "img": "img/fanta.webp"
+    },
+    { 
+        "id": 4, 
+        "nombre": "Agua", 
+        "precio": 2000, 
+        "categoria": "Bebida",
+        "img": "img/agua.webp"
+    },
+    { 
+        "id": 5, 
+        "nombre": "Hamburguesa", 
+        "precio": 5000, 
+        "categoria": "Comida",
+        "img": "img/hamburguesas.webp"
+    },
+    { 
+        "id": 6, 
+        "nombre": "Pizza", 
+        "precio": 8000, 
+        "categoria": "Comida",
+        "img": "img/pizza.webp"
+    },
+    { 
+        "id": 7, 
+        "nombre": "Papas Fritas", 
+        "precio": 3000, 
+        "categoria": "Comida",
+        "img": "img/papasfritas.webp"
+    },
+    { 
+        "id": 8, 
+        "nombre": "Helado", 
+        "precio": 1500, 
+        "categoria": "Postre",
+        "img": "img/helado.webp"
+    },
+    { 
+        "id": 9, 
+        "nombre": "Brownie", 
+        "precio": 2000, 
+        "categoria": "Postre",
+        "img": "img/brownie.webp"
+    },
+    { 
+        "id": 10, 
+        "nombre": "Torta", 
+        "precio": 2500, 
+        "categoria": "Postre",
+        "img": "img/torta.webp"
+    }
+]
